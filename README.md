@@ -16,7 +16,6 @@ The project demonstrates the practical implementation of data analysis, machine 
 - User input prediction system
 - Beginner-friendly machine learning project
 
-
 ## Technologies Used
 - Python
 - Pandas
@@ -24,7 +23,6 @@ The project demonstrates the practical implementation of data analysis, machine 
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
 
 ## Dataset Information
 The dataset contains the following features:
